@@ -9,4 +9,31 @@ body {
     font-size: 16px;
     line-height: 1.7;
     font-family: 'Julius Sans One', sans-serif;
-}    
+}
+.splash {
+    margin: 0;
+    text-align: center;
+    background: #fff;
+    color: #3d3d3d;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: 'Julius Sans One', sans-serif;
+}
+.container {
+    margin: 0;
+    text-align: center;
+    background: #fff;
+    color: #3d3d3d;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: 'Julius Sans One', sans-serif;
+} 
+footer {
+    margin: 0;
+    text-align: center;
+    background: #fff;
+    color: #3d3d3d;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: 'Julius Sans One', sans-serif;
+}   
