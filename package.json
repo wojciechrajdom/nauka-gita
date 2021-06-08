@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/wojciechrajdom/nauka-gita#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.14"
+    "browser-sync": "^2.26.14",
+    "html-validate": "^4.13.1"
   }
 }
