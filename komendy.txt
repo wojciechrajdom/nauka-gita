@@ -1,6 +1,6 @@
 {
   "extends": [
-    "html-validate:recommended"
+    "html-validate index.html"
   ],
 
   "rules": {
